@@ -1,0 +1,15 @@
+.counter i {
+    font-size: 40px;
+}
+.counter i.blue {
+    color: #4154f1;
+}
+.counter i.orange {
+    color: orange;
+}
+.counter i.green {
+    color: green;
+}
+.counter i.red {
+    color: red;
+}

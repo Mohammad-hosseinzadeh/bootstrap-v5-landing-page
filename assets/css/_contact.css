@@ -1,0 +1,21 @@
+.contact .info-box {
+    background: #fafbff;
+    padding: 30px;
+}
+.contact .info-box i {
+    font-size: 40px;
+    line-height: 0;
+    color: #4154f1;
+}
+.contact .info-box .cellphone{
+    direction: ltr;
+    text-align:right;
+}
+.contact-form{
+    height: 100%;
+    background: #fafbff;
+    padding: 30px;
+}
+.form-control{
+    resize: none;
+}

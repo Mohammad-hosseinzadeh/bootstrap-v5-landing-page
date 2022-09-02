@@ -1,0 +1,12 @@
+.footer .social-link i{
+    color: rgba(1, 41, 112, .5);
+    font-size: 20px;
+}
+.footer hr{
+width: 70%;
+height: 5px;
+
+}
+.footer .footer-link a{
+    color: #000;
+}
